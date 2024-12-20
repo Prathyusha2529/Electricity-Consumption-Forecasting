@@ -19,9 +19,11 @@ The "Electricity Consumption Forecasting using Time Series Analysis" project ana
 The dataset consisted of hourly electricity consumption and production data. To facilitate analysis and modeling, we converted and aggregated the data as follows:
 
 **Date Conversion:** Transformed the 'DateTime' column into Python datetime objects for accurate time-based operations.
+
 **Data Aggregation:**
 Converted the hourly data to weekly and monthly intervals for better trend analysis.
 Summarized data by taking averages and totals where appropriate.
+
 **Handling Missing and Duplicate Values:**
 Verified that the dataset contained no null values.
 Removed duplicate entries to ensure data integrity.
