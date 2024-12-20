@@ -1,1 +1,3 @@
 # Electricity-Consumption-Forecasting
+Overview:
+The "Electricity Consumption Forecasting using Time Series Analysis" project analyzes and predicts hourly electricity consumption and production trends from January 2019 to January 2023. Using advanced time series techniques like ARIMA and ARIMAX, it identifies key patterns, trends, and seasonal variations to forecast consumption with 97.46% accuracy. The project's insights support energy providers, policymakers, and stakeholders in optimizing resource allocation, infrastructure planning, and renewable energy integration. This work highlights the importance of data-driven strategies in efficient energy management.
